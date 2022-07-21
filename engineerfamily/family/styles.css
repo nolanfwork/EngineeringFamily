@@ -1,0 +1,18 @@
+
+.header {
+    color: darkcyan;
+	font-family: 'Comforter', cursive, sans-serif;
+	text-align: left;
+}
+
+.temp-display {
+	font-family:fantasy;
+}
+.mybg {
+	background: lightgrey;
+}
+
+body {
+	background-image: url('background.jpg');
+}
+
