@@ -1,8 +1,8 @@
 <?php
 session_start();
-define('DB_HOST', '303.itpwebdev.com');
-define('DB_USER', 'lishiche_db_user');
-define('DB_PASS', 'CHENlishi..0');
-define('DB_NAME', 'lishiche_engineering_db');
+define('DB_HOST', '');//host website address
+define('DB_USER', 'root');
+define('DB_PASS', 'root');
+define('DB_NAME', 'engineering_db');
 
 ?>
